@@ -136,7 +136,7 @@ import matplotlib.pyplot as plt
 data.hist(bins=50, figsize=(20,15))
 plt.show()
 ```
-![Histogram](/image/Histogram.png "Histogram")
+![Histogram](/image/histogram.png "Histogram")
 
 > Distribusi data pada masing-masing variabel tidak ada yang berdistribusi normal.
 
