@@ -1,6 +1,3 @@
-# Laporan Proyek Machine Learning - Rifaldi Achmad Faisal
-
-
 ## DOMAIN PROYEK
 Industri baja menyumbang sekitar 8% dari total konsumsi energi akhir dunia dan memproduksi 7% – 8% emisi CO₂ global, sehingga peningkatan efisiensi energi di sektor ini sangat krusial untuk menurunkan jejak karbon dan biaya produksi [1], [2]. Di Korea Selatan, Korea Electric Power Corporation (KEPCO) menyediakan data konsumsi listrik industri secara harian, bulanan, dan tahunan melalui portal PCCS, yang menjadi sumber primer untuk analisis dan prediksi [3], [17].
 
